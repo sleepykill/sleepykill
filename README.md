@@ -3,7 +3,9 @@
 
 <div align="center">
 
-<img src="assets/sll.jpg" alt="Sleepy Linux Banner" width="100%">
+<div align="center">
+  <img src="./assets/sll.jpg" alt="Sleepy Linux Banner" width="100%">
+</div>
 
 # Sleepy
 

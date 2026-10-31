@@ -2,9 +2,8 @@
 <!-- Sleepy Linux | GitHub Profile README | sleepykill -->
 
 <div align="center">
-
 <div align="center">
-  <img src="./assets/sll.jpg" alt="Sleepy Linux Banner" width="100%">
+  <img src="./sll.jpg" alt="Sleepy Linux Banner" width="100%">
 </div>
 
 # Sleepy

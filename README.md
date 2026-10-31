@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/banner.png" alt="Sleepy Linux anime banner" width="100%">
+<img src="assets/sll.jpg" alt="Sleepy Linux anime banner" width="100%">
 
 # Sleepy
 

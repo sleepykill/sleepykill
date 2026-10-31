@@ -2,17 +2,16 @@
 <!-- Sleepy Linux | GitHub Profile README | sleepykill -->
 
 <div align="center">
-<div align="center">
-  <img src="./sll.jpg" alt="Sleepy Linux Banner" width="100%">
-</div>
+
+<img src="./sll.jpg" alt="Sleepy Linux Banner" width="100%">
 
 # Sleepy
 
 **🐧 Linux · 🛠️ Customization · 🎮 Gaming · ⚡ Performance**
 
-[![GitHub](https://img.shields.io/badge/GitHub-@sleepykill-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sleepykill)
-[![Debian](https://img.shields.io/badge/Debian-GNU%2FLinux-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
-[![AMD](https://img.shields.io/badge/AMD-Radeon-ED1C24?style=flat-square&logo=amd&logoColor=white)](https://www.amd.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-@sleepykill-30343B?style=flat-square&logo=github&logoColor=white)](https://github.com/sleepykill)
+[![Debian](https://img.shields.io/badge/Debian-GNU%2FLinux-30343B?style=flat-square&logo=debian&logoColor=A81D33)](https://www.debian.org/)
+[![AMD](https://img.shields.io/badge/AMD-Radeon-30343B?style=flat-square&logo=amd&logoColor=ED1C24)](https://www.amd.com/)
 
 </div>
 
@@ -30,15 +29,15 @@
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-111111?style=for-the-badge&logo=debian&logoColor=A81D33)
-![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-111111?style=for-the-badge&logo=kde&logoColor=1D99F3)
-![AMD Radeon](https://img.shields.io/badge/AMD%20Radeon-111111?style=for-the-badge&logo=amd&logoColor=ED1C24)
-![Bash](https://img.shields.io/badge/Bash-111111?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
-![JSON](https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-30343B?style=for-the-badge&logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-30343B?style=for-the-badge&logo=debian&logoColor=A81D33)
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-30343B?style=for-the-badge&logo=kde&logoColor=1D99F3)
+![AMD Radeon](https://img.shields.io/badge/AMD%20Radeon-30343B?style=for-the-badge&logo=amd&logoColor=ED1C24)
+![Bash](https://img.shields.io/badge/Bash-30343B?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+![Python](https://img.shields.io/badge/Python-30343B?style=for-the-badge&logo=python&logoColor=3776AB)
+![JSON](https://img.shields.io/badge/JSON-30343B?style=for-the-badge&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-30343B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-30343B?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -47,10 +46,24 @@
 - 🎨 **Sleepy AMD Control** — Linux display color and image customization.
 - 🐧 **Debian / KDE Customization** — Desktop configuration and system tweaks.
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sleepykill&show_icons=true&hide_border=true&bg_color=0d1117&title_color=9CA3AF&icon_color=9CA3AF&text_color=c9d1d9&ring_color=9CA3AF" alt="Sleepy's GitHub Stats">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepykill&layout=compact&hide_border=true&bg_color=0d1117&title_color=9CA3AF&text_color=c9d1d9" alt="Most Used Languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=sleepykill&theme=dark&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF" alt="GitHub Contribution Streak">
+
+</div>
+
 ## 🌐 Find Me
 
 - 🐙 **GitHub:** [@sleepykill](https://github.com/sleepykill)
-- 💬 **Discord:** Add your Discord profile or server link
+- 💬 **Discord:** Add your Discord profile link
 - 📷 **Instagram:** Add your Instagram link
 - 🎥 **YouTube:** Add your YouTube channel
 

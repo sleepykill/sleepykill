@@ -47,21 +47,6 @@
 
 - 🎨 **Sleepy AMD Control** — Linux display color and image customization.
 - 🐧 **Debian / KDE Customization** — Desktop configuration and system tweaks.
-- 🎮 **Linux Gaming** — Gaming configurations and performance optimizations.
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sleepykill&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ed1c3b&icon_color=ed1c3b&text_color=c9d1d9&ring_color=ed1c3b" alt="Sleepy's GitHub Stats">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepykill&layout=compact&hide_border=true&bg_color=0d1117&title_color=ed1c3b&text_color=c9d1d9" alt="Most Used Languages">
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=sleepykill&theme=dark&hide_border=true&background=0D1117&ring=ED1C3B&fire=ED1C3B&currStreakLabel=ED1C3B" alt="GitHub Contribution Streak">
-
-</div>
 
 ## 🌐 Find Me
 

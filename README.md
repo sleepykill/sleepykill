@@ -49,9 +49,9 @@
 ## 🌐 Find Me
 
 - 🐙 **GitHub:** [@sleepykill](https://github.com/sleepykill)
-- 💬 **Discord:** Add your Discord profile link
-- 📷 **Instagram:** Add your Instagram link
-- 🎥 **YouTube:** Add your YouTube channel
+- 💬 **Discord:** [My Profile](https://discord.com/users/1304405765485891634)
+- 🎥 **YouTube:** [Sleepy01101](https://www.youtube.com/@Sleepy01101)
+- 🎵 **TikTok:** [@o.mais.lindo.kkj](https://www.tiktok.com/@o.mais.lindo.kkj)
 
 ---
 
